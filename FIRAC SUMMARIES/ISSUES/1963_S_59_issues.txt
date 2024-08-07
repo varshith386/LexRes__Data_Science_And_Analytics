@@ -1,0 +1,9 @@
+Validity of Pardon: Whether the pardon granted to the approver was legal under Section 337 of the CrPC, given the nature of the offenses and the authority granting the pardon.
+
+Reliability of Approver's Evidence: Despite the pardon, whether the approver's testimony should be considered reliable and whether it sufficiently corroborates the prosecution's case.
+
+Admissibility of Documentary Evidence: The admissibility of various documents, including account books, seized papers, and missing records, and their relevance to proving the prosecution's case.
+
+Procedural Fairness: Whether the Additional Sessions Judge's extensive questioning of the respondents under Section 342 was fair and whether it bordered on cross-examination.
+
+Legal Interpretation: Interpretation of Sections 34, 114, and 159 of the Indian Evidence Act concerning the relevance of account books, absence of entries, and the approver's use of documents during testimony.

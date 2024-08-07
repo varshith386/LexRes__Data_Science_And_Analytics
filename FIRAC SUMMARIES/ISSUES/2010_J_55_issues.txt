@@ -1,0 +1,5 @@
+Jurisdiction: Whether the direct appeal to the Supreme Court under Article 136 of the Constitution is maintainable.
+Person Aggrieved: Whether the first respondent qualifies as an "aggrieved person" under Sections 46 and 56 of the 1958 Act.
+Public Interest: Whether the IPAB failed to consider the aspect of public interest.
+Consumer Confusion: Whether the use of the mark "Infosys" by the first respondent could confuse consumers into believing that the hardware was manufactured by the appellant.
+Scope of Non-Use: Whether the appellant’s registration should be invalidated due to non-use for the goods registered under the trademarks.
